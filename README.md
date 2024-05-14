@@ -6,6 +6,8 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
+<a href="https://github.com/gomaof/Ebook_Project/blob/main/output/Ebook%20-%20Seja%20Hooper.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
